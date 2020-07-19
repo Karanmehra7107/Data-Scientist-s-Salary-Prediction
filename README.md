@@ -1,10 +1,10 @@
 # Data-Scientist-s-Salary-Prediction
-![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![matplotlib](https://img.shields.io/badge/Library-Matplotlib-orange.svg) ![pandas](https://img.shields.io/badge/Library-Pandas-orange.svg) ![numpy](https://img.shields.io/badge/Library-Numpy-orange.svg) ![seaborn](https://img.shields.io/badge/Library-Seaborn-orange.svg)
+![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg ![pandas](https://img.shields.io/badge/Library-Pandas-orange.svg) ![numpy](https://img.shields.io/badge/Library-Numpy-orange.svg)
 
 - This repository contains CSV taken from Kaggle.
 
 ## Problem Statement
-As we all know, Apps are used world wide with rapid increase of users Now, given the dataset of google playstore apps, define ratings, coments, price, usage, etc.
+As we all know, Jobs increasing with respect to demand of industry Now, given the dataset of data scientist prediction dataset from kaggle, predict the salary and accuracy.
 
 ## Directory Tree 
 ```
@@ -14,20 +14,22 @@ As we all know, Apps are used world wide with rapid increase of users Now, given
 ```
 
 ## Steps
-- Read data
+- Exploring data
 - Data cleaning
-- Rating Outliers >5
-- Data Imputation and Manipulation
-- Data Visualization
+- Exploraty data analysis
+- Feature engineering
+- Feature scaling
+- Model Buliding
 
 ## Algorithm Used
-- LogisticRegression
-- AdaBoostClassifier
-
+ - Linear regression
+ - Decision tree regression
+ - Random forest regression
+ - AdaBoost regression model 
+ 
 ## Evaluation / Visualization
 
-![download (1)](https://user-images.githubusercontent.com/62024355/87877980-0ec73080-c9ff-11ea-85c1-59cf4756020b.png)![download (2)](https://user-images.githubusercontent.com/62024355/87877983-125ab780-c9ff-11ea-9edb-29394ededf92.png)
-![download](https://user-images.githubusercontent.com/62024355/87877984-12f34e00-c9ff-11ea-92e4-6755d7d7dd8f.png)
+Accuracy of the AdaBoost Regression Model on Training set is : 96.58% and on Test set is 78.62%
 
 
 
