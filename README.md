@@ -26,10 +26,10 @@ As we all know, Apps are used world wide with rapid increase of users Now, given
 
 ## Evaluation / Visualization
 
+![download (1)](https://user-images.githubusercontent.com/62024355/87877980-0ec73080-c9ff-11ea-85c1-59cf4756020b.png)
+![download (2)](https://user-images.githubusercontent.com/62024355/87877983-125ab780-c9ff-11ea-9edb-29394ededf92.png)
+![download](https://user-images.githubusercontent.com/62024355/87877984-12f34e00-c9ff-11ea-92e4-6755d7d7dd8f.png)
 
-![download](https://user-images.githubusercontent.com/62024355/87870710-3c44b780-c9c8-11ea-922d-6657fb91cfa3.png)
-![download (1)](https://user-images.githubusercontent.com/62024355/87870713-3e0e7b00-c9c8-11ea-9200-c389c55b09ba.png)
-![download (2)](https://user-images.githubusercontent.com/62024355/87870714-3fd83e80-c9c8-11ea-86ac-91bd5fa10081.png)
 
 
 ## Team
